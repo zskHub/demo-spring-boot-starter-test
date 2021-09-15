@@ -1,0 +1,8 @@
+# Undertow
+server:
+  port: 10086
+demo:
+  isOpen: true
+  implType: B
+  userName: zsk
+  workType: java开发
